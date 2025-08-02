@@ -18,11 +18,11 @@ The Instacart dataset is publicly available via Kaggle: Instacart Online Grocery
 Customer dataset created specifically for this project.
 
 ## Folder Structure
-/notebooks: Jupyter notebooks that include data cleaning, merging, exploratory analysis, and visualizations.
+03 scripts: Jupyter notebooks that include data cleaning, merging, exploratory analysis, and visualizations.
 
 /visualizations: Exported charts and graphs summarizing key findings.
 
-/reports: Final summary report with insights and recommendations for stakeholders.
+sent to client : Final summary report with insights and recommendations for stakeholders.
 
 ## Tools and Libraries
 Python (pandas, NumPy, matplotlib, seaborn)
